@@ -1,0 +1,16 @@
+{
+    "name": "Prove Fib",
+    "description": "",
+    "image": "",
+    "properties": {
+        "package_name": "prove_fib",
+        "current_version": "0.1.0",
+        "publisher": "nick.kino",
+        "mirrors": [],
+        "code_hashes": {
+            "0.1.0": ""
+        }
+    },
+    "external_url": "https://github.com/hosted-fornet/kinode-prove-fib",
+    "animation_url": ""
+}
